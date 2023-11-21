@@ -1,0 +1,19 @@
+[0924/084848.664:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[0924/084848.665:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[0924/084848.923:INFO:CONSOLE(21)] "Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/serviceworker.js (21)
+[0924/084848.923:INFO:CONSOLE(21)] "Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/serviceworker.js (21)
+[0924/084848.923:INFO:CONSOLE(7)] "Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js (7)
+[0924/085338.742:INFO:CONSOLE(7)] "Another connection wants to delete database 'wawc_db_enc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js (7)
+[0924/085338.742:INFO:CONSOLE(21)] "Another connection wants to delete database 'wawc_db_enc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/WAWebWorker.5389b3b331ac0309c787.worker.js (21)
+[0924/085338.858:INFO:CONSOLE(21)] "Another connection wants to delete database 'model-storage'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/WAWebWorker.5389b3b331ac0309c787.worker.js (21)
+[0924/085338.862:INFO:CONSOLE(21)] "Another connection wants to delete database 'fts-storage'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/WAWebWorker.5389b3b331ac0309c787.worker.js (21)
+[0924/085339.181:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[0924/085339.181:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[0924/085339.425:INFO:CONSOLE(21)] "Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/serviceworker.js (21)
+[0924/085339.425:INFO:CONSOLE(21)] "Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/serviceworker.js (21)
+[0924/085339.455:INFO:CONSOLE(7)] "Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js (7)
+[0924/090045.707:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0924/090154.462:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0924/090159.469:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0924/090209.478:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[0924/090229.490:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
